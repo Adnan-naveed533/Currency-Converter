@@ -15,7 +15,7 @@ A modern, fast, and responsive Currency Converter application built using React.
 - **Frontend:** React.js, HTML5, CSS3 / Tailwind CSS (if applicable)
 - **Build Tool:** Vite (for lightning-fast development)
 - **Language:** JavaScript (ES6+)
-- **API:** [(`https://latest.currency-api.pages.dev/v1/currencies/${currency}.json`)] for live exchange rates.
+- **API:** Currency API (`https://latest.currency-api.pages.dev/v1/currencies/${currency}.json`) for live exchange rates.
 
 ## 🚀 Getting Started
 
@@ -27,24 +27,25 @@ Make sure you have Node.js installed on your computer.
 ### Installation
 
 1. Clone the repository:
+   ```bash
    git clone [https://github.com/Adnan-naveed533/Currency-Converter.git](https://github.com/Adnan-naveed533/Currency-Converter.git)
-  Navigate to the project directory:
+2. Navigate to the project directory:
 Bash
 
 cd Currency-Converter
 # Ya aapke local folder ka naam jo tha: cd CoustomHooks
 
-Install the required dependencies:
+3. Install the required dependencies:
 Bash
 
 npm install
 
-Start the development server:
+4. Start the development server:
 Bash
 
 npm run dev
 
-Open your browser and visit the URL provided in the terminal (usually http://localhost:5173/).
+5. Open your browser and visit the URL provided in the terminal (usually http://localhost:5173/).
 
 📸 Screenshots
 <img width="1357" height="602" alt="image" src="https://github.com/user-attachments/assets/4bdb9bb0-af08-4ff6-9c5f-d3bc4daaf2ec" />
