@@ -29,30 +29,37 @@ Make sure you have Node.js installed on your computer.
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Adnan-naveed533/Currency-Converter.git](https://github.com/Adnan-naveed533/Currency-Converter.git)
-2. Navigate to the project directory:
-Bash
+ ##Navigate to the project directory:
 
-cd Currency-Converter
-# Ya aapke local folder ka naam jo tha: cd CoustomHooks
+      Bash
+      cd Currency-Converter
 
-3. Install the required dependencies:
-Bash
+##Install the required dependencies:
+   
+      Bash
+      npm install
 
-npm install
+##Start the development server:
+      
+      Bash
+      npm run dev
 
-4. Start the development server:
-Bash
-
-npm run dev
-
-5. Open your browser and visit the URL provided in the terminal (usually http://localhost:5173/).
+##Open your browser and visit the URL provided in the terminal (usually http://localhost:5173/).
 
 📸 Screenshots
 <img width="1357" height="602" alt="image" src="https://github.com/user-attachments/assets/4bdb9bb0-af08-4ff6-9c5f-d3bc4daaf2ec" />
 <img width="456" height="293" alt="image" src="https://github.com/user-attachments/assets/bb898006-06ac-4211-830d-37228b91cd0a" />
-👨‍💻 Author
 
-Adnan Naveed
+---
 
-    GitHub: @Adnan-naveed533
+## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+
+---
+
+## 👤 Author
+
+**Adnan Naveed**
+
+* **GitHub:** [@Adnan-naveed533](https://github.com/Adnan-naveed533)
